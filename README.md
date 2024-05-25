@@ -15,4 +15,4 @@ I am learning to contribute to open source projects through GSSoC 2024.
 
 - GitHub: https://github.com/sanikaa5
 - LinkedIn: https://www.linkedin.com/in/sanika-dhakite-534271225
-- Profile: https://sanikadhakite5.wordpress.com
+- Website: https://sanikadhakite8.wordpress.com/
