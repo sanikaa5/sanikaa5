@@ -6,8 +6,8 @@ I am learning to contribute to open source projects through GSSoC 2024.
 
 ## Skills
 
-- **Languages**: Python, C++, JavaScript
-- **Frameworks/Libraries**: Bootstrap, Django, C++ stl, PyTorch, Tensorflow, Scikit
+- **Languages**: Python, C++, JavaScript, MySQL, HTML, CSS
+- **Frameworks/Libraries**: Bootstrap, Django, C++ stl, PyTorch, Pandas, NumPy, Tensorflow, Scikit, Flask
 - **Tools**: Node.js, Git, GitLab
 - **Other Skills**: WordPress, Documentation
 
